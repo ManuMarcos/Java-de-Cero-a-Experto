@@ -1,0 +1,4 @@
+public class HibernateEjemplo1 {
+
+   
+}

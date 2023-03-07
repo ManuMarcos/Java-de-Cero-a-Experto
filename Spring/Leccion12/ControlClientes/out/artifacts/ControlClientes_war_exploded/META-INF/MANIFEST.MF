@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: manue
+Build-Jdk: 17.0.6
+Implementation-Title: ControlClientes
+Implementation-Version: 1.0
+Implementation-Vendor-Id: mx.com.gm
+Main-Class: ${start-class}
+
